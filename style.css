@@ -466,7 +466,7 @@ background: var(--second-bg-color);
 @media (max-width: 768px){
    #menu-icon {
     display: block;
-    margin-right:4rem;
+    margin-right:6rem;
    }
    .navbar {
     position: absolute;
@@ -502,7 +502,6 @@ background: var(--second-bg-color);
    .home-img img {
     width: 125%;
     margin-top: -2rem;
-    margin-left: 1rem;
    }
 
    .about{
