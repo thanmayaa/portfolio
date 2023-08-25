@@ -466,11 +466,12 @@ background: var(--second-bg-color);
 @media (max-width: 768px){
    #menu-icon {
     display: block;
+    margin-right:4rem;
    }
    .navbar {
     position: absolute;
     top: 100%;
-    left: 0;
+    left: 0px;
     padding: 1rem 3%;
     background: var(--bg-color);
     border-top: .1rem solid rgba(0,0,0,.2);
