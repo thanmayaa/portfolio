@@ -501,7 +501,7 @@ background: var(--second-bg-color);
    .home-img img {
     width: 125%;
     margin-top: -2rem;
-    margin-left: 0.7rem;
+    margin-left: 1rem;
    }
 
    .about{
