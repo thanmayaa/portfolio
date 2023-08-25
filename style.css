@@ -500,16 +500,18 @@ background: var(--second-bg-color);
    }
    .home-img img {
     width: 70vw;
-    margin-top: 4rem;
+    margin-top: -2rem;
+    margin-left: 8rem;
    }
 
    .about{
     flex-direction: column-reverse;
    }
 
-   .about-img{
-    width: 70vw;
-    margin-top: 4rem;
+   .about-img img{
+    width: 90vw;
+    margin-top: 6rem;
+    margin-right:5rem
    }
    
    .services h2 {
