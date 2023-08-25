@@ -24,7 +24,7 @@ window.onscroll = () => {
             });
         };
     });
-};
+
     /*==================== sticky navbar ====================*/
     const header = document.querySelector('header');
 
@@ -33,7 +33,7 @@ window.onscroll = () => {
     /*==================== remove toggle icon navbar when click navbar link (scroll)====================*/
     menuIcon.classList.remove('bx-x');
     navbar.classList.remove('active');
-
+};
 
 /*==================== scroll reveal ====================*/
 ScrollReveal({
