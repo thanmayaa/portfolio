@@ -499,10 +499,9 @@ background: var(--second-bg-color);
     font-size: 5rem;
    }
    .home-img img {
-    width: 100vw;
-    height:100%;
+    width: 125%;
     margin-top: -2rem;
-    margin-left: 8rem;
+    margin-left: 0.7rem;
    }
 
    .about{
